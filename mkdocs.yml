@@ -1,9 +1,44 @@
 site_name: Project X
 
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+
 theme:
   name: material
-  palette:
-    scheme: slate
+  palette: 
+    scheme: ayu
+  font:
+    text: Nunito
+    code: Source Code Pro
+##  logo: assets/
+
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.top
 
 extra_css:
-- docs/stylesheets/extra.css
+- stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/gihanx
+      name: github
+      
+  generator: false
+
+
+nav:
+- Home: index.md
+- Resources:
+  - Main: Resources.md
+- Programs:
+  - Main: Programs.md
+  - Tweaks: Tweaks.md
+- Extra:
+  - QuickSaves: QuickSave.md
+  - Not Checked: Not Checked.md 

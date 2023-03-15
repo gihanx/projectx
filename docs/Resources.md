@@ -1,3 +1,8 @@
+---
+hide:
+ - toc
+---
+
 #### Courses/Plugins/Assets
 - [Download Pirate](https://www.downloadpirate.com/)
 - [AE Blender](https://www.aeblender.com/)

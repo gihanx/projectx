@@ -1,3 +1,8 @@
+---
+hide:
+ - toc
+---
+
 #### Blender Addons
 - Bool Tool
 - Loop Tool
@@ -15,29 +20,26 @@
 - [Asset Creation Toolset](https://github.com/mrven/blender-asset-creation-toolset)
 
 ### Apps
-msi afterbuner
-rtss
-brave
 [Flux](https://justgetflux.com/)
-affinity photo
+
 [Nvidia Texture Tools Exporter](https://developer.nvidia.com/nvidia-texture-tools-exporter)
+
 [Malwarebytes Free](https://www.malwarebytes.com/)
-7zip
-blender 
-gimp
-pureref
-teamspeak3
-marmoset toolbag 4.0.2
-vlc
+
 [foobar](https://www.foobar2000.org/)
+
 [Fmodel](https://fmodel.app/)
+
 [Umodel](https://www.gildor.org/en/projects/umodel)
+
 [QuickBMS](http://aluigi.altervista.org/quickbms.htm)
-discord
+
 [qBittorrent](https://www.qbittorrent.org/)
+
 [Steam Desktop Authenticator](https://github.com/jessecar96/steamdesktopauthenticator)
-obs
+
 [Soulseekqt](http://www.soulseekqt.net/news/node/1)
+
 [Logitech Onboard Memory Manager](https://support.logi.com/hc/en-us/articles/360059641133)
 
 #### Browser Addons

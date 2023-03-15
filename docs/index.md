@@ -1,1 +1,3 @@
-This is Homepage
+Work in progress stuff personal documentation
+
+XD
