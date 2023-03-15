@@ -1,0 +1,6 @@
+site_name: Project X
+
+theme:
+  name: material
+  palette:
+    scheme: slate
