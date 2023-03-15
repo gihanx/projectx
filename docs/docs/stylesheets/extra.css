@@ -1,0 +1,12 @@
+:root /*{
+    --md-primary-fg-color:               #303030;
+    --md-primary-bg-color:               #ffffff;
+  
+    --md-accent-fg-color:                #ffffff;
+    --md-accent-bg-color:                #ffffff;
+  }*/
+
+  [data-md-color-scheme="slate"] 
+  {
+    --md-hue: 226;
+  }
