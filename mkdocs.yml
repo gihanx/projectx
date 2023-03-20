@@ -8,12 +8,14 @@ markdown_extensions:
 
 theme:
   name: material
+  icon:
+    logo: material/library-outline
   palette: 
     scheme: ayu
   font:
     text: Nunito
     code: Source Code Pro
-##  logo: assets/
+  favicon: images/logo.png
 
   features:
     - navigation.tabs
