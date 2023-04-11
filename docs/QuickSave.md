@@ -14,3 +14,21 @@ hide:
 > [Monitor Hz Changer Task](https://gaming.stackexchange.com/questions/148651/how-can-i-set-the-resolution-and-refresh-rate-when-the-game-starts)
 
 >[Song of Ceylon](http://www.colonialfilm.org.uk/node/486/)
+
+[BlurBlusters](https://forums.blurbusters.com/index.php?sid=e04324c9d82f3c87ed713dcf94897644)
+
+[unreal sttings save](https://ninepointeightgame.com/game-updates/quick-tip-default-unreal-editor-preferences)
+
+[HackersNews](https://news.ycombinator.com/news)
+
+[fernbacher github](https://codeberg.org/fernbacher/Piracy)
+
+[Linux-News](https://www.phoronix.com/)
+
+https://www.videohelp.com/
+
+[SteamDLCUnlocker](https://github.com/acidicoala/Koalageddon2)
+
+[ARTSTATIONDOWNLOAD-TETING](https://forum.videohelp.com/threads/401683-Struggle-to-download-from-ArtStation-com)
+
+[DiscordThemeEditor](https://bdeditor.dev/themes)

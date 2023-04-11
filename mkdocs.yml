@@ -35,12 +35,29 @@ extra:
 
 
 nav:
+
 - Home: index.md
-- Resources:
-  - Main: Resources.md
-- Programs:
-  - Main: Programs.md
-  - Tweaks: Tweaks.md
-- Extra:
-  - QuickSaves: QuickSave.md
-  - Not Checked: Not Checked.md 
+
+- HOUDINI:
+  - Learning: houdini/houdini.md
+  - Assets: houdini/houdini.md
+  - Fixes: houdini/houdini.md
+
+- UNREAL:
+  - Learning: unreal/unreal.md
+  - Assets: unreal/unreal.md
+  - Fixes: unreal/unreal.md
+
+- BLENDER:
+  - Learning: blender/3d.md
+  - Assets: blender/3d.md
+  - Fixes: blender/3d.md
+
+- WINDOWS:
+  - programs: windows/programs.md
+  - tweaks: windows/tweaks.md
+
+- LINUX:
+  - linux: linux/testss.md
+
+- dev: wip.md

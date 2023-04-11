@@ -3,28 +3,14 @@ hide:
  - toc
 ---
 
-#### Blender Addons
-- Bool Tool
-- Loop Tool
-- F2
-- Node Wrangler
-- UV Pack Master 3
-- UV Tool Kit 2
-- Quad Remesher
-- Mesh Machine
-- [Modifire List](https://github.com/symstract/modifier_list)
-- [Texel Density Checker](https://github.com/mrven/blender-texel-density-checker)
-- [YAVNE Normal Editor](https://github.com/fedackb/yavne)
-- [Machine3Tools](https://machin3.gumroad.com/l/machin3tools)
-- [Interactive Tools](https://github.com/maxivz/interactivetoolsblender)
-- [Asset Creation Toolset](https://github.com/mrven/blender-asset-creation-toolset)
-
 ### Apps
 [Flux](https://justgetflux.com/)
 
 [Nvidia Texture Tools Exporter](https://developer.nvidia.com/nvidia-texture-tools-exporter)
 
 [Malwarebytes Free](https://www.malwarebytes.com/)
+
+[YTDLP](https://github.com/yt-dlp/yt-dlp)
 
 [foobar](https://www.foobar2000.org/)
 
@@ -41,6 +27,12 @@ hide:
 [Soulseekqt](http://www.soulseekqt.net/news/node/1)
 
 [Logitech Onboard Memory Manager](https://support.logi.com/hc/en-us/articles/360059641133)
+
+[WizTreeDiskAnalizer](https://diskanalyzer.com/)
+
+[Ripcord](https://cancel.fm/ripcord/)
+
+[WEBCord](https://github.com/SpacingBat3/WebCord)
 
 #### Browser Addons
 - [AHA Music - Song Finder for Browser](https://www.aha-music.com/)
@@ -61,3 +53,8 @@ hide:
 [Tarkov Free Version](https://justemutarkov.eu/)
 
 [Moneky Type](https://monkeytype.com/)
+
+
+[YTDLP](https://github.com/yt-dlp/yt-dlp)
+
+[Windows-Shortcut-Dir](https://superuser.com/questions/217504/is-there-a-list-of-windows-special-directories-shortcuts-like-temp)

@@ -1,3 +1,1 @@
-Work in progress stuff personal documentation
-
-XD
+Work in progress personal documentation, Made using [MKDocs](https://squidfunk.github.io/mkdocs-material/)
