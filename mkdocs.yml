@@ -19,39 +19,37 @@ theme:
 
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.instant
     - navigation.top
+    - navigation.expand
+
 
 extra_css:
 - stylesheets/extra.css
 
 extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/gihanx
-      name: github
-      
+#  social:
+#    - icon: fontawesome/brands/github
+#      link: https://github.com/gihanx
+#      name: github
+#      
   generator: false
 
 
 nav:
 
-- Home: index.md
+- HOME: index.md
 
 - HOUDINI:
   - Learning: houdini/houdini.md
-  - Assets: houdini/houdini.md
-  - Fixes: houdini/houdini.md
+  - Assets: houdini/assets.md
 
 - UNREAL:
   - Learning: unreal/unreal.md
-  - Assets: unreal/unreal.md
-  - Fixes: unreal/unreal.md
 
 - BLENDER:
   - Learning: blender/3d.md
-  - Assets: blender/3d.md
-  - Fixes: blender/3d.md
 
 - WINDOWS:
   - programs: windows/programs.md
@@ -60,4 +58,8 @@ nav:
 - LINUX:
   - linux: linux/testss.md
 
-- dev: wip.md
+- EXTRA: extra.md
+
+- RESOURCES: resources.md
+
+- TESTING: quicksave.md

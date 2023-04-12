@@ -48,13 +48,6 @@ hide:
 
 [Calculate Monitor Refresh Rate](https://www.testufo.com/refreshrate)
 
-[Linux News](https://www.phoronix.com/)
-
-[Tarkov Free Version](https://justemutarkov.eu/)
-
 [Moneky Type](https://monkeytype.com/)
 
-
 [YTDLP](https://github.com/yt-dlp/yt-dlp)
-
-[Windows-Shortcut-Dir](https://superuser.com/questions/217504/is-there-a-list-of-windows-special-directories-shortcuts-like-temp)

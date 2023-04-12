@@ -32,4 +32,6 @@ PC Oprimizations
 
 [Show Seconds in System Clock](https://www.howtogeek.com/wp-content/uploads/2017/09/show-seconds-in-system-clock-hacks.zip)
 
-[CSGO Tweaks](https://morefps.net/how-to-increase-fps-in-csgo)
+[Windows-Shortcut-Dir](https://superuser.com/questions/217504/is-there-a-list-of-windows-special-directories-shortcuts-like-temp)
+
+> [Monitor Hz Changer Task](https://gaming.stackexchange.com/questions/148651/how-can-i-set-the-resolution-and-refresh-rate-when-the-game-starts)
