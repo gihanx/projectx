@@ -1,0 +1,56 @@
+---
+hide:
+ - toc
+---
+
+## Activate Windows
+Microsoft Activation Scripts [**Link**](https://github.com/massgravel/microsoft-activation-scripts)
+- Use HWID to get a key tied to motherboad permenently
+
+---
+
+## BIOS/WINDOWS Oprimization Guide
+- [Boring Boredom](https://github.com/boringboredom/pc-optimization-hub)
+- [Overclock Site Guide](https://www.overclock.net/threads/gaming-and-mouse-response-bios-optimization-guide-for-modern-pc-hardware.1433882/)
+- [Melody's Tweak](https://sites.google.com/view/melodystweaks/basictweaks#h.7fhhmr5naoq0)
+- [FR33THY](https://www.youtube.com/@fr33thy)
+- [Blur Busters](https://forums.blurbusters.com/index.php?sid=739f751405ce888661893b74bedbdbed)
+- [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)
+
+---
+
+## Better Mic Setup
+EqAPO + VST Plugins Tutorial [**Link**](https://www.youtube.com/watch?v=fnk0au1rt1i)
+
+Install Chipset Drivers [Snappy Driver Installer Origin](https://www.snappy-driver-installer.org/)
+
+Check System Software Larency [Latency Monitor](https://www.resplendence.com/latencymon)
+
+Don't Update, Fresh install gpu drivers [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
+
+[Custom Resolution Utility](https://www.monitortests.com/forum/thread-custom-resolution-utility-cru)
+
+[ISLC](https://www.wagnardsoft.com/forums/viewtopic.php?t=3775)
+
+Check mouse Polling Rate over time [Mousetester v1.5.3](https://www.overclock.net/threads/mousetester-software-reloaded.1590569/)
+
+[Disable Hibernate](https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/disable-and-re-enable-hibernation)
+
+Show Seconds in System Clock [RegFile](https://www.howtogeek.com/wp-content/uploads/2017/09/show-seconds-in-system-clock-hacks.zip)
+
+Windows Shortcut Dir [Guide](https://superuser.com/questions/217504/is-there-a-list-of-windows-special-directories-shortcuts-like-temp)
+
+Monitor Hz Changer Task [Guide](https://gaming.stackexchange.com/questions/148651/how-can-i-set-the-resolution-and-refresh-rate-when-the-game-starts)
+
+---
+
+## AMD Sharpen registy method
+
+```
+"\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000"
+
+"KMD_USUEnable", set the value to "1", if it does not exist, create
+
+Restart the driver using the CRU or restart the PC.
+```
+---

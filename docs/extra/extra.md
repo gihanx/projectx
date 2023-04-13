@@ -23,7 +23,7 @@ hide:
 #### Cheats
 - [Unknown Cheats](https://www.unknowncheats.me)
 
-[steamcmd-as-steamclient](https://developer.valvesoftware.com/wiki/SteamCMD)
+
 
 [Tarkov Free Version](https://justemutarkov.eu/)
 

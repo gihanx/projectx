@@ -1,4 +1,4 @@
-site_name: Project X
+site_name: Personal Doc
 
 markdown_extensions:
   - admonition
@@ -42,23 +42,32 @@ nav:
 - HOME: index.md
 
 - HOUDINI:
-  - Learning: houdini/houdini.md
+  - Learning: houdini/learn.md
   - Assets: houdini/assets.md
+  - KineFX: houdini/kinefx.md
+  - VAT: houdini/vat.md
+  - UI: houdini/houdini.md
 
 - UNREAL:
   - Learning: unreal/unreal.md
 
 - BLENDER:
-  - Learning: blender/3d.md
+  - Learning: blender/blender.md
+  - Plugins: blender/plugin.md
 
-- WINDOWS:
-  - programs: windows/programs.md
-  - tweaks: windows/tweaks.md
+- SOFTWARE:
+  - programs: software/programs.md
+  - discord: software/discord.md
+  - steam: software//steam.md
+  - tweaks: software/tweaks.md
 
 - EXTRA:
-  - a: extra/resources.md
-  - b: extra/quicksave.md
-  - c: extra/extra.md
+  - resources: extra/resources.md
+  - quicksave: extra/quicksave.md
+  - extra: extra/extra.md
 
 - LINUX:
-  - linux: linux/testss.md
+  - linux: linux/linux.md
+  - Arch Install: linux/arch-install.md
+  - Ubuntu Server Install: linux/ubuntu-server-install.md
+  - Tun2Socks: linux/tun2socks.md
