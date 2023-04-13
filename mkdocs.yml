@@ -56,9 +56,10 @@ nav:
   - tweaks: windows/tweaks.md
 
 - EXTRA:
-  - a: resources.md
-  - b: quicksave.md
-  - c: extra.md
+   - k: index.md
+#  - a: resources.md
+#  - b: quicksave.md
+#  - c: extra.md
 
 - LINUX:
   - linux: linux/testss.md
