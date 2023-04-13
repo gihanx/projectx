@@ -1,7 +1,11 @@
 ---
 hide:
  - toc
+ - path
+ - navigation
 ---
+
+### asdasd
 
 [fernbacher github](https://codeberg.org/fernbacher/Piracy)
 

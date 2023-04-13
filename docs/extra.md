@@ -1,4 +1,13 @@
->[Song of Ceylon](http://www.colonialfilm.org.uk/node/486/)
+---
+hide:
+ - toc
+ - path
+ - navigation
+---
+
+## ASD
+
+[Song of Ceylon](http://www.colonialfilm.org.uk/node/486/)
 
 #### Freebies
 - [Game Power](https://www.gamerpower.com)

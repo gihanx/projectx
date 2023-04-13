@@ -1,7 +1,11 @@
 ---
 hide:
  - toc
+ - path
+ - navigation
 ---
+
+### ASDAS
 
 ### Courses/Plugins/Assets
 - [Download Pirate](https://www.downloadpirate.com/)
