@@ -55,10 +55,10 @@ nav:
   - programs: windows/programs.md
   - tweaks: windows/tweaks.md
 
-- LINUX:
-  - linux: linux/testss.md
-
 - EXTRA:
   - a: resources.md
   - b: quicksave.md
   - c: extra.md
+
+- LINUX:
+  - linux: linux/testss.md
