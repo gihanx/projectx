@@ -15,7 +15,7 @@ theme:
   font:
     text: Nunito
     code: Source Code Pro
-  favicon: images/logo.png
+#  favicon: images/logo.png
 
   features:
     - navigation.tabs
@@ -29,12 +29,12 @@ extra_css:
 - stylesheets/extra.css
 
 extra:
-#  social:
-#    - icon: fontawesome/brands/github
-#      link: https://github.com/gihanx
-#      name: github
-#      
-  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/gihanx
+      name: github
+      
+#  generator: false
 
 
 nav:
@@ -58,8 +58,11 @@ nav:
 - LINUX:
   - linux: linux/testss.md
 
-- EXTRA: extra.md
+- EXTRA: 
+  - x: extra.md
 
-- RESOURCES: resources.md
+- RESOURCES: 
+  - x: resources.md
 
-- TESTING: quicksave.md
+- TESTING: 
+  - x: quicksave.md
