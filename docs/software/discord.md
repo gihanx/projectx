@@ -22,7 +22,7 @@ Source: fernbacher
 Use [OpenAsar](https://openasar.dev/)
 
 <details>
-  <summary>CSS Code</summary>
+  <summary>CSS Customization</summary>
   
 ```
 /* Hide Gift Button in chat box */

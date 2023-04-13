@@ -58,7 +58,7 @@ nav:
 - SOFTWARE:
   - programs: software/programs.md
   - discord: software/discord.md
-  - steam: software//steam.md
+  - steam: software/steam.md
   - tweaks: software/tweaks.md
 
 - EXTRA:

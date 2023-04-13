@@ -5,8 +5,8 @@ hide:
 ---
 
 ## Houdini UI Customization
-- Dark Flat Theme [**Link**](https://axelschoterman.com/resources)<br>
-- John Kunz Video [**Link**](https://www.youtube.com/watch?v=VdiEd84Kjsw)
+- Dark Flat Theme [Site](https://axelschoterman.com/resources)<br>
+- John Kunz Video [Youtube](https://www.youtube.com/watch?v=VdiEd84Kjsw)
 
 ---
 ### Houde Splash
