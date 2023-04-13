@@ -1,8 +1,6 @@
 ---
 hide:
  - toc
- - path
- - navigation
 ---
 
 ### asdasd

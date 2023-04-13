@@ -58,11 +58,7 @@ nav:
 - LINUX:
   - linux: linux/testss.md
 
-- EXTRA: 
-  - x: extra.md
-
-- RESOURCES: 
-  - x: resources.md
-
-- TESTING: 
-  - x: quicksave.md
+- EXTRA:
+  - a: resources.md
+  - b: quicksave.md
+  - c: extra.md
