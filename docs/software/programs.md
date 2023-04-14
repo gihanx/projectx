@@ -3,34 +3,34 @@ hide:
  - toc
 ---
 
-### Apps
-Night Light App - Flux [**Link**](https://justgetflux.com/)
+## Someuseful Programs
+Night Light App [Flux](https://justgetflux.com/)
 
-Nvidia Texture Tools Exporter [**Link**](https://developer.nvidia.com/nvidia-texture-tools-exporter)
+Texture Compresser [Nvidia Texture Tools Exporter](https://developer.nvidia.com/nvidia-texture-tools-exporter)
 
-Malwarebytes Free [**Link**](https://www.malwarebytes.com/)
+Bloatless Anti-Virus Tool [Malwarebytes Free](https://www.malwarebytes.com/)
 
-YTDLP  [**Link**](https://github.com/yt-dlp/yt-dlp)
+Download videos from sites [YTDLP](https://github.com/yt-dlp/yt-dlp)
 
-Foobar 2000 [**Link**](https://www.foobar2000.org/)
+Audio Player [Foobar 2000](https://www.foobar2000.org/)
 
-qBittorrent[**Link**](https://www.qbittorrent.org/)
+Torrent Software [qBittorrent](https://www.qbittorrent.org/)
 
-Soulseekqt [**Link**](http://www.soulseekqt.net/news/node/1)
+Lossless Audio Files [Soulseekqt](http://www.soulseekqt.net/news/node/1)
 
-Logitech Onboard Memory Manager [**Link**](https://support.logi.com/hc/en-us/articles/360059641133)
+Bloatless Logitech App [Logitech Onboard Memory Manager](https://support.logi.com/hc/en-us/articles/360059641133)
 
-WizTreeDiskAnalizer [**Link**](https://diskanalyzer.com/)
-
-
+Disk Analyzer [WizTree Disk Analyzer](https://diskanalyzer.com/)
 
 ---
 
 ## Internet Browser Setup 
 
-Mullvad Browser [**Link**](https://mullvad.net/en)
+Better than Chrome [Brave Browser](https://brave.com/)
 
-Brave Browser [**Link**](https://brave.com/)
+Privacy Friendly Browser [Mullvad Browser](https://mullvad.net/en)
+
+---
 
 ## Browser Addons
 - [AHA Music - Song Finder for Browser](https://www.aha-music.com/)
@@ -47,16 +47,6 @@ Brave Browser [**Link**](https://brave.com/)
 
 ---
 
-[AMD Gpu Driver History](https://gpuopen.com/version-table/)
-
-[Calculate Monitor Refresh Rate](https://www.testufo.com/refreshrate)
-
-[Moneky Type](https://monkeytype.com/)
-
-[YTDLP](https://github.com/yt-dlp/yt-dlp)
-
----
-
 ## Datamine Unreal Games
 
 Fmodel [**Link**](https://fmodel.app/)
@@ -65,9 +55,15 @@ Umodel [**Link**](https://www.gildor.org/en/projects/umodel)
 
 QuickBMS [**Link**](http://aluigi.altervista.org/quickbms.htm)
 
-> PUBG PC<br> 
+> PLAYERUNKOWN'S BATTLEGROUND Experimental Build<br> 
 > Engine Version = 4.16<br>
-> Key = 0x3435444431354436444432444135304145423731434537413532383443463845
+> AES Key = 0x3435444431354436444432444135304145423731434537413532383443463845
 ---
 
+Can't find old Radeon Drivers? [Open GPU Version Table](https://gpuopen.com/version-table/)
 
+Calculate Monitor Refresh Rate, Lock it using RTSS [Cal](https://www.testufo.com/refreshrate)
+
+Practice Typing [Moneky Type](https://monkeytype.com/)
+
+---

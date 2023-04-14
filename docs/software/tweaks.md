@@ -44,7 +44,7 @@ Monitor Hz Changer Task [Guide](https://gaming.stackexchange.com/questions/14865
 
 ---
 
-## AMD Sharpen registy method
+## AMD Sharpen - Registry method
 
 ```
 "\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000"
