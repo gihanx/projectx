@@ -18,23 +18,20 @@ Microsoft Activation Scripts [**Link**](https://github.com/massgravel/microsoft-
 - [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)
 
 ---
+Better Mic Setup w/ EqAPO + VST Plugins [Link](https://www.youtube.com/watch?v=fnk0au1rt1i)
 
-## Better Mic Setup
-EqAPO + VST Plugins Tutorial [**Link**](https://www.youtube.com/watch?v=fnk0au1rt1i)
-
+---
 Install Chipset Drivers [Snappy Driver Installer Origin](https://www.snappy-driver-installer.org/)
+> Only install if necessary 
 
-Check System Software Larency [Latency Monitor](https://www.resplendence.com/latencymon)
+Uninstall GPU Drivers [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
+> Don't Update, Fresh install gpu drivers
 
-Don't Update, Fresh install gpu drivers [Display Driver Uninstaller](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)
+Set Custom Resolution/Hz [CRU](https://www.monitortests.com/forum/thread-custom-resolution-utility-cru)
 
-[Custom Resolution Utility](https://www.monitortests.com/forum/thread-custom-resolution-utility-cru)
+Force Timer Resolution to 0.5 [ISLC](https://www.wagnardsoft.com/forums/viewtopic.php?t=3775)
 
-[ISLC](https://www.wagnardsoft.com/forums/viewtopic.php?t=3775)
-
-Check mouse Polling Rate over time [Mousetester v1.5.3](https://www.overclock.net/threads/mousetester-software-reloaded.1590569/)
-
-[Disable Hibernate](https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/disable-and-re-enable-hibernation)
+Disable Hibernate [Link](https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/disable-and-re-enable-hibernation)
 
 Show Seconds in System Clock [RegFile](https://www.howtogeek.com/wp-content/uploads/2017/09/show-seconds-in-system-clock-hacks.zip)
 
@@ -54,3 +51,14 @@ Monitor Hz Changer Task [Guide](https://gaming.stackexchange.com/questions/14865
 Restart the driver using the CRU or restart the PC.
 ```
 ---
+## Benchmark
+[HWiNFO](https://www.hwinfo.com/download/)
+
+[GPUZ](https://www.techpowerup.com/gpuz/)
+
+GPU Tuner [MSI AfterBurner](https://www.msi.com/Landing/afterburner/graphics-cards)
+> Just use Stable Version
+
+Check System Software Larency [Latency Monitor](https://www.resplendence.com/latencymon)
+
+Check mouse Polling Rate [Mousetester v1.5.3](https://www.overclock.net/threads/mousetester-software-reloaded.1590569/)

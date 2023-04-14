@@ -1,30 +1,33 @@
+## Remove Snaps
 ```
 snap list
 sudo snap remove --purge [app]
 sudo apt remove --autoremove snapd
-
+```
+## Stop Snap Updating
+```
 sudo gedit /etc/apt/preferences.d/nosnap.pref
 Package: snapd
 Pin: release a=*
 Pin-Priority: -10
-
+```
+## Update
+```
 sudo apt update
 sudo apt upgrade
 
-
 sudo apt install --only-upgrade package_names
-
-sudo apt-get install awesome awesome-extra
-
-sudo apt-get install xinit kitty thunar
-
-startx
-
-
+```
+## Install AwesomeWM, Xinit, Thunar, Alacritty
+```
 sudo add-apt-repository ppa:aslatter/ppa -y
-sudo apt install alacritty
 
-sudo apt install curl
+sudo apt update
+
+sudo apt-get install awesome awesome-extra xinit thunar alacritty
+```
+## Install Brave
+```
 
 sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
 
@@ -35,3 +38,5 @@ sudo apt update
 sudo apt install brave-browser
 
 ```
+## AutoLogin w/ Xinitrc
+> https://www.makeuseof.com/how-to-start-x11-on-linux-without-display-manager/

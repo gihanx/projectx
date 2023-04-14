@@ -1,2 +1,2 @@
-Photonix Linux News [**Link**](https://www.phoronix.com/)
+Phoronix Linux News [**Link**](https://www.phoronix.com/)
 
