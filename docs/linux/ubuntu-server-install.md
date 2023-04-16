@@ -17,15 +17,11 @@ Pin-Priority: -10
 ```
 sudo apt update
 sudo apt upgrade
-
-sudo apt install --only-upgrade package_names
 ```
-## Install AwesomeWM, Xinit, Thunar, Alacritty
+## Install Packages
 ```
 sudo add-apt-repository ppa:aslatter/ppa -y
-
 sudo apt update
-
 sudo apt-get install awesome awesome-extra xinit thunar alacritty pavucontrl rofi nitrogen
 ```
 ---
@@ -36,7 +32,6 @@ sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://b
 echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list
 
 sudo apt update
-
 sudo apt install brave-browser
 
 ```
