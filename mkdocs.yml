@@ -50,6 +50,7 @@ nav:
 
 - UNREAL:
   - Learning: unreal/unreal.md
+  - Install: unreal/install.md
 
 - BLENDER:
   - Learning: blender/blender.md
