@@ -73,3 +73,4 @@ nav:
   - Ubuntu Server Install: linux/ubuntu-server-install.md
   - Tun2Socks: linux/tun2socks.md
   - Git/Github: linux/git.md
+  - NeoVim: linux/neovim.md
