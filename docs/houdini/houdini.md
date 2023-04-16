@@ -29,3 +29,6 @@ HOUDINI_USE_HFS_OCL=0
 - [Tokeru](https://www.tokeru.com/cgwiki/main_page)
 
 - [John Kunz](https://wiki.johnkunz.com/index.php?title=resources)
+---
+### Houdini Linux Install
+[Link](https://www.sidefx.com/faq/question/install-linux/)

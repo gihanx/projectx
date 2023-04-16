@@ -37,13 +37,47 @@ sudo apt install brave-browser
 ```
 ---
 ## AutoLogin
-.xinitrc
+Execute  Window Manager with `.xinitrc`
 ```
 exec awesome
 ```
-.bash_login
+Execute StartX with `.bash_login`
 ```
 if [[ -z $display ]] && [[ $(tty) = /dev/tty1 ]]; then
 startx
 fi
 ```
+Command Aliases with `.bashrc`
+```
+alias v="nvim"
+alias s="sudo"
+```
+sync `source ~/.bashrc`
+
+---
+Check Current Target 
+```
+systemctl get-default
+```
+To Text Target
+```
+sudo systemctl set-default multi-user.target
+```
+To Boot Target
+```
+sudo systemctl set-default graphical.target
+```
+Restart
+```
+sudo systemctl reboot
+```
+[Link](https://www.cyberciti.biz/faq/switch-boot-target-to-text-gui-in-systemd-linux/)
+
+---
+
+### Set Time Currect
+[Link](https://linuxize.com/post/how-to-set-or-change-timezone-on-ubuntu-20-04/)
+
+---
+
+Gnome Disk Analyzer `sudo apt-get install baobab`

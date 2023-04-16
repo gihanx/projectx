@@ -50,7 +50,7 @@ nav:
 
 - UNREAL:
   - Learning: unreal/unreal.md
-  - Install: unreal/install.md
+  - Install: unreal/ueinstall.md
 
 - BLENDER:
   - Learning: blender/blender.md
@@ -72,3 +72,4 @@ nav:
   - Arch Install: linux/arch-install.md
   - Ubuntu Server Install: linux/ubuntu-server-install.md
   - Tun2Socks: linux/tun2socks.md
+  - Git/Github: linux/git.md
