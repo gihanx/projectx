@@ -24,4 +24,15 @@ Checker Map Creater [**Link**](https://uvchecker.vinzi.xyz/)
 
 MaterialX Material Library [**Link**](https://matlib.gpuopen.com/main/materials/all)
 
+---
 
+## Pipeline
+![](assets/pipeline.png)
+![](assets/pipeline2.png)
+![](assets/pipeline3.png)
+
+---
+
+## UV Margin
+![](assets/uv1.JPG)
+![](assets/uv2.JPG)

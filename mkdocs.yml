@@ -87,6 +87,7 @@ nav:
   - discord: software/discord.md
   - steam: software/steam.md
   - tweaks: software/tweaks.md
+  - HyperV: software/hyperv.md
 
 - EXTRA:
   - resources: extra/resources.md

@@ -12,3 +12,11 @@ Houdini Dog Rig Project [Discussion](https://www.sidefx.com/forum/topic/76420/)
 Houdini Rigging [Guide](https://www.riggingdojo.com/2020/10/28/sidefx-houdini-18-5-kinefx/)
 
 Extra KineFX Tools [Github Repo](https://github.com/kamilhepner/kinefx_tools)
+
+### Houdini Skeleton Fix Scale
+```
+add a rigpose, set it to world transform and scaled everything to .01 before export
+
+disable import bone tracks
+```
+![](assets/skel_scale.png)
