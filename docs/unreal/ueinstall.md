@@ -1,4 +1,9 @@
-
+---
+hide:
+ - toc
+ - path
+# - navigation
+ - title
 ---
 ### Copy Past Engine Files
 1. Install Epic Launcher

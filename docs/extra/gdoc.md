@@ -135,7 +135,7 @@ hide:
 		-  
 	- [ ]  Logic
 		1. Press F
-		2. Player Moves to Enter Location 
+		2. Player Moves to Enter Location
 		3. Disable Userinput  
 		4. Open Door 
 		5. Player/Actor/Capsule/Mesh move to seat  
@@ -143,17 +143,17 @@ hide:
 		7. Blend Player Cam to Vehicle Cam  
 		8. Close Door  
 		9. Posses the Car/Car Controls  
-		10. Enable Steerwheel IK Hands  
+		10. Enable Steerwheel IK Hands
 - [ ] Exit
 	- [ ] Animation
 		- Character Exit
 	- [ ] Logic
 		1. Press F 
-		2. Disable IK Hands 
+		2. Disable IK Hands
 		3. Open Door
 		4. Player/Actor/Capsule/Mesh move to EnterLoc  
 		5. Also plays the Anim w/ Rootmotion -reverse
-		6. Blend VehiclCam to Player Cam 
+		6. Blend VehiclCam to Player Cam
 		7. Close Door 
 		8. Posses the PlayerCharacter  
 		9. Enable UserInput

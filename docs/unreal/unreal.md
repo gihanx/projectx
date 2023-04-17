@@ -1,3 +1,10 @@
+---
+hide:
+ - toc
+ - path
+# - navigation
+ - title
+---
 [Unreal Tips](https://www.unrealdirective.com/tips)
 
 [My UE5 helpful and general Plugins](https://www.youtube.com/watch?v=QkKGLJyLYFY)
