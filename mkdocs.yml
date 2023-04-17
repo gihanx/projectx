@@ -34,7 +34,7 @@ theme:
 
     logo: ""
   palette: 
-    scheme: slate
+    scheme: ayu
     primary: black
     accent: light blue
   font:
