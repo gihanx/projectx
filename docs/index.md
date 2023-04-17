@@ -13,3 +13,5 @@ hide:
 |[GDrive](https://drive.google.com/drive/my-drive)|[SteamStore](https://store.steampowered.com/)|[Paypal](https://www.paypal.com/)|   |   |
 |[GTranslate](https://translate.google.lk/?hl=en&sl=en&tl=si&op=translate)|[Wallhaven](https://wallhaven.cc)|
 |[TypePractice](https://www.keybr.com/)|[Unsplash](https://unsplash.com)|[SyncSketch](https://syncsketch.com/)
+
+[Phoronix](https://www.phoronix.com/)

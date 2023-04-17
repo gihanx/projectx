@@ -8,12 +8,12 @@
   --md-default-bg-color:             rgb(14, 14, 14);
   --md-default-bg-color--light:      hsl(0, 0%, 26%);
   --md-default-bg-color--lighter:    hsl(0, 0%, 21%);
-  --md-default-bg-color--lightest:   hsla(0, 0%, 15%, 0.979);
+  --md-default-bg-color--lightest:   hsla(0, 0%, 67%, 0.979);
 
   /* Code color shades */
   --md-code-fg-color:                rgb(29, 114, 43);
   --md-code-hl-color-darker:         hsla(20, 100%, 60%, 1);
-  --md-code-bg-color:                rgb(22, 22, 22);
+  --md-code-bg-color:                rgb(31, 31, 31);
 
   /* Code highlighting color shades */
   --md-code-hl-color:                hsla(34, 100%, 66%, .15);
@@ -62,7 +62,7 @@
   /* --md-typeset-kbd-border-color:     hsla(var(--md-hue), 15%, 14%, 1);     */
 
   /* Typeset `table` color shades */
-  /* --md-typeset-table-color:          hsla(var(--md-hue), 75%, 95%, 0.12);  */
+   --md-typeset-table-color:          hsla(var(--md-hue), 75%, 95%, 0.12); 
 
   /* Admonition color shades */
   /* --md-admonition-bg-color:          hsla(var(--md-hue), 0%, 100%, 0.025); */
