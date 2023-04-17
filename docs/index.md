@@ -2,7 +2,7 @@
 hide:
  - toc
  - path
- - navigation
+# - navigation
  - title
 ---
 
