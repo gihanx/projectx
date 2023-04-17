@@ -5,6 +5,9 @@ markdown_extensions:
   - attr_list
   - def_list
   - footnotes
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+
 
 theme:
   name: material
