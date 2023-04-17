@@ -1,19 +1,19 @@
 /* custom color palette */
 [data-md-color-scheme="ayu"] {
   /* Default color shades */
-  --md-default-fg-color:             hsla(0,   0%,  77%, 1);
-  --md-default-fg-color--light:      hsla(0,   0%,  77%, 0.62);
-  --md-default-fg-color--lighter:    hsla(0,   0%,  77%, 0.32);
-  --md-default-fg-color--lightest:   hsla(0,   0%,  77%, 0.12);
-  --md-default-bg-color:             hsla(210, 25%, 8%,  1);
-  --md-default-bg-color--light:      hsla(210, 25%, 8%,  0.54);
-  --md-default-bg-color--lighter:    hsla(210, 25%, 8%,  0.26);
-  --md-default-bg-color--lightest:   hsla(210, 25%, 8%,  0.07);
+  --md-default-fg-color:             rgb(124, 124, 124);
+  --md-default-fg-color--light:      hsl(0, 0%, 60%);
+  --md-default-fg-color--lighter:    hsl(120, 100%, 50%);
+  --md-default-fg-color--lightest:   hsl(0, 0%, 34%);
+  --md-default-bg-color:             rgb(14, 14, 14);
+  --md-default-bg-color--light:      hsl(0, 0%, 26%);
+  --md-default-bg-color--lighter:    hsl(0, 0%, 21%);
+  --md-default-bg-color--lightest:   hsla(0, 0%, 15%, 0.979);
 
   /* Code color shades */
-  --md-code-fg-color:                hsla(34, 100%, 66%, 1);
+  --md-code-fg-color:                rgb(29, 114, 43);
   --md-code-hl-color-darker:         hsla(20, 100%, 60%, 1);
-  --md-code-bg-color:                hsla(212, 21%, 12%, 1);
+  --md-code-bg-color:                rgb(22, 22, 22);
 
   /* Code highlighting color shades */
   --md-code-hl-color:                hsla(34, 100%, 66%, .15);
@@ -41,17 +41,17 @@
   --md-code-hl-operator-color:       var(--md-default-fg-color--light);
   --md-code-hl-punctuation-color:    var(--md-default-fg-color--light);
   --md-code-hl-comment-color:        hsl(211, 11%, 41%);
-  --md-code-hl-generic-color:        #e6e1cf;
+  --md-code-hl-generic-color:        #bd9b20;
   --md-code-hl-variable-color:       var(--md-code-hl-color-darker);
   --md-code-hl-type-color:           #FFD700;
   --md-typeset-ins-color:            #91b362;
   --md-typeset-del-color:            #d96c75;
 
   /* Typeset color shades */
-  --md-typeset-color:                var(--md-default-fg-color);
+  --md-typeset-color:                hsl(0, 0%, 52%);
 
   /* Typeset `a` color shades */
-  --md-typeset-a-color:              var(--md-primary-fg-color);
+  --md-typeset-a-color:              hsl(221, 71%, 34%);
 
   /* Typeset `mark` color shades */
   --md-typeset-mark-color:           hsla(218, 100%, 63%, 0.3); /* hsla(#{hex2hsl($clr-blue-a200)}, 0.3); */
@@ -74,7 +74,7 @@
 
 /* content area width fixed max */
 .md-grid {
-  max-width: 1560px;
+  max-width: 11560px;
 }
 /* content area width stretch to fit */
 /* .md-grid {                        */

@@ -1,6 +1,8 @@
 ---
 hide:
  - toc
+ - path
+ - title
 ---
 
 ## Someuseful Programs

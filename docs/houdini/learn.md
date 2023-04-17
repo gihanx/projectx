@@ -2,6 +2,7 @@
 hide:
  - toc
  - path
+ - title
 ---
 
 OdForce Forum [Forum](https://forums.odforce.net/)

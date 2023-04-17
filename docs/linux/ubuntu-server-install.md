@@ -1,3 +1,10 @@
+---
+hide:
+ - toc
+ - path
+ - title
+---
+
 ## Remove Snaps
 ```
 snap list

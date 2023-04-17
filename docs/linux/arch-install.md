@@ -1,3 +1,10 @@
+---
+hide:
+ - toc
+ - path
+ - title
+---
+
 ```
 timedatectl set-ntp true 
 

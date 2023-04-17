@@ -2,6 +2,7 @@
 hide:
  - toc
  - path
+ - title
 ---
 
 MoCap Library [Link](http://mocap.cs.cmu.edu/)

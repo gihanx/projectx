@@ -2,6 +2,7 @@
 hide:
  - toc
  - path
+ - title
 ---
 
 Houdin Nerd [Site](https://abrupt-scarf-fb8.notion.site/HOUDINI-NERD-bb58e9354c434092abc04e63231745a9)

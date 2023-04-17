@@ -1,3 +1,9 @@
+---
+hide:
+ - toc
+ - path
+ - title
+---
 ## Blender Addons
 ---
  ### Built-In

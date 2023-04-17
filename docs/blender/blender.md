@@ -1,3 +1,10 @@
+---
+hide:
+ - toc
+ - path
+ - title
+---
+
 Creating an Assault Rifle in Substance 3D Painter and Unreal Engine 5 [**Link**](https://80.lv/articles/creating-an-assault-rifle-in-sunstance-3d-painter-and-unreal-engine-5/)
 
 Maya ARTv2 [**LINK**](https://github.com/EpicGames/ARTv2)

@@ -2,6 +2,7 @@
 hide:
  - toc
  - path
+ - title
 ---
 
 ## Houdini UI Customization

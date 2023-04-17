@@ -2,8 +2,8 @@
 hide:
  - toc
  - path
+ - title
 ---
-
 ## Houdin Unreal Vertex Animation Texture
 - Official Labs Vertex Animation Textures 3.0 FAQ [**Link**](https://www.sidefx.com/forum/topic/81422/)
 

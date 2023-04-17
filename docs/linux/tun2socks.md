@@ -1,3 +1,10 @@
+---
+hide:
+ - toc
+ - path
+ - title
+---
+
 Linux Tun2Socks [Github](https://github.com/iamtrazy/xray-tun2socks)
 
 ---

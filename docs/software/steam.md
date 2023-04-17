@@ -1,3 +1,9 @@
+---
+hide:
+ - toc
+ - path
+ - title
+---
 ## Steam Client
 
 Bloatless Client [Steam CMD](https://developer.valvesoftware.com/wiki/SteamCMD)

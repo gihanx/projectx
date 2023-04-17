@@ -1,3 +1,9 @@
+---
+hide:
+ - toc
+ - path
+ - title
+---
 
 Plugin Manager https://github.com/junegunn/vim-plug
 
