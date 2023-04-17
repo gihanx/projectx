@@ -65,7 +65,7 @@ plugins: []
 
 nav:
 
-#- HOME: index.md
+- BOOKMARK: index.md
 
 - HOUDINI:
   - Learning: houdini/learn.md
