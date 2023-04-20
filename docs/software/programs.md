@@ -32,9 +32,7 @@ Better than Chrome [Brave Browser](https://brave.com/)
 
 Privacy Friendly Browser [Mullvad Browser](https://mullvad.net/en)
 
----
-
-## Browser Addons
+#### Browser Addons
 - [AHA Music - Song Finder for Browser](https://www.aha-music.com/)
 - [Clickbait Remover for Youtube](https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip?hl=en)
 - [Full Screenshot Webpage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en)
@@ -49,23 +47,10 @@ Privacy Friendly Browser [Mullvad Browser](https://mullvad.net/en)
 
 ---
 
-## Datamine Unreal Games
-
-Fmodel [**Link**](https://fmodel.app/)
-
-Umodel [**Link**](https://www.gildor.org/en/projects/umodel)
-
-QuickBMS [**Link**](http://aluigi.altervista.org/quickbms.htm)
-
-> PLAYERUNKOWN'S BATTLEGROUND Experimental Build<br> 
-> Engine Version = 4.16<br>
-> AES Key = 0x3435444431354436444432444135304145423731434537413532383443463845
----
-
 Can't find old Radeon Drivers? [Open GPU Version Table](https://gpuopen.com/version-table/)
 
 Calculate Monitor Refresh Rate, Lock it using RTSS [Cal](https://www.testufo.com/refreshrate)
-
-Practice Typing [Moneky Type](https://monkeytype.com/)
-
 ---
+#### INS Proxy
+- [Nekoray App](https://github.com/MatsuriDayo/nekoray)
+- [Netch](https://github.com/netchx/netch)

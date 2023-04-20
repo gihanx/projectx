@@ -9,11 +9,6 @@ OdForce Forum [Forum](https://forums.odforce.net/)
 
 SideFX Tutorials [Site](https://www.sidefx.com/tutorials/)
 
-
-Houdini Tutorials List [List](https://docs.google.com/spreadsheets/d/11FbYBV_OV2INv3LCk38fmcgZbuVrgxYaZK-1KifCpyc/edit#gid=0)
-
-
-
 Unreal/Houdini Cam Fix [Discussion](https://forums.odforce.net/topic/48503-unreal-to-houdini-camera-axis-fix/)
 
 Cool Houdini Guy [Artstation](https://mohsen-t.artstation.com/)

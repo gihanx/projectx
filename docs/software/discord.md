@@ -14,7 +14,6 @@ Source: fernbacher
 - Keep only the language you use and I advise to keep `en-US.pak` to prevent issues (from personal experience).
 - This method should continue to work whatever the Discord version, feel free to fix anything in a pull request though.
 - **⚠ Warning: With each Discord update, the modules & locales will come back! This is why it is advisable to use Discord web or a client alternative like [WebCord](https://github.com/SpacingBat3/WebCord).**
-
 `With the help of he3als`
 
 ---

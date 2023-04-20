@@ -35,4 +35,12 @@ more https://www.nulledtemplates.com/
 - [One Hack](https://onehack.us/)
 - [Free Offs](https://freesoff.com/latest)
 
-- [HackersNews](https://news.ycombinator.com/news)
+## ASD
+
+[Song of Ceylon](http://www.colonialfilm.org.uk/node/486/)
+
+#### Freebies
+
+[Tarkov Free Version](https://justemutarkov.eu/)
+
+How I Fixed My HORRIBLE Computer Posture [Link](https://www.youtube.com/watch?v=Rc8ZQeIZn40)

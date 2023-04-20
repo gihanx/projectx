@@ -64,3 +64,4 @@ GPU Tuner [MSI AfterBurner](https://www.msi.com/Landing/afterburner/graphics-car
 Check System Software Larency [Latency Monitor](https://www.resplendence.com/latencymon)
 
 Check mouse Polling Rate [Mousetester v1.5.3](https://www.overclock.net/threads/mousetester-software-reloaded.1590569/)
+

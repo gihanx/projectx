@@ -77,26 +77,25 @@ nav:
 - UNREAL:
   - Learning: unreal/unreal.md
   - Install: unreal/ueinstall.md
+  - Datamine: unreal/datamine.md
 
 - BLENDER:
   - Learning: blender/blender.md
   - Plugins: blender/plugin.md
 
 - SOFTWARE:
-  - programs: software/programs.md
-  - discord: software/discord.md
-  - steam: software/steam.md
-  - tweaks: software/tweaks.md
+  - Programs: software/programs.md
+  - Discord: software/discord.md
+  - Steam: software/steam.md
+  - Tweaks: software/tweaks.md
   - HyperV: software/hyperv.md
+  - Server2022: software/srv22-install.md
 
 - EXTRA:
-  - resources: extra/resources.md
-  - quicksave: extra/quicksave.md
-  - extra: extra/extra.md
-  - GDOC: extra/gdoc.md
+  - Quicksave: extra/quicksave.md
 
 - LINUX:
-  - linux: linux/linux.md
+  - Linux: linux/linux.md
   - Arch Install: linux/arch-install.md
   - Ubuntu Server Install: linux/ubuntu-server-install.md
   - Tun2Socks: linux/tun2socks.md
