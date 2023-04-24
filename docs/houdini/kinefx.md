@@ -13,10 +13,17 @@ Houdini Rigging [Guide](https://www.riggingdojo.com/2020/10/28/sidefx-houdini-18
 
 Extra KineFX Tools [Github Repo](https://github.com/kamilhepner/kinefx_tools)
 
-### Houdini Skeleton Fix Scale
-```
-add a rigpose, set it to world transform and scaled everything to .01 before export
+---
 
-disable import bone tracks
-```
+## Houdini-Unreal Skeleton Fix Scale
+1. Add a rigpose
+2. Set it to world transform and scaled everything to .01 before export
+3. Disable import bone tracks in unreal fbx importer
+
 ![](assets/skel_scale.png)
+
+---
+
+## Increase Viewport Performance
+
+![](./assets/polyframe.gif)

@@ -5,13 +5,11 @@ hide:
  - title
 ---
 
-Creating an Assault Rifle in Substance 3D Painter and Unreal Engine 5 [**Link**](https://80.lv/articles/creating-an-assault-rifle-in-sunstance-3d-painter-and-unreal-engine-5/)
+Creating an Assault Rifle in Substance 3D Painter and Unreal Engine 5 [80lv](https://80.lv/articles/creating-an-assault-rifle-in-sunstance-3d-painter-and-unreal-engine-5/)
 
-Maya ARTv2 [**LINK**](https://github.com/EpicGames/ARTv2)
+Fusion 360 Weapon Course [Artstation Learning](https://www.artstation.com/learning/instructors/Duard-Mostert)
 
-Fusion 360 Weapon Course [**Link**](https://www.artstation.com/learning/instructors/Duard-Mostert)
-
-Hard surface modling course by crytek dev [**Link**](https://www.artstation.com/learning/series/qrq/weapon-development-in-blender?utm_source=artstation&utm_medium=onsite_notification&utm_campaign=series)
+Hard Surface Modling - Crytek Dev [Artstation Learning](https://www.artstation.com/learning/series/qrq/weapon-development-in-blender?utm_source=artstation&utm_medium=onsite_notification&utm_campaign=series)
 
 ---
 

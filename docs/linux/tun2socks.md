@@ -8,7 +8,7 @@ hide:
 Linux Tun2Socks [Github](https://github.com/iamtrazy/xray-tun2socks)
 
 ---
-Linux Proxy 
+## Linux Proxy 
 
 ```
 /etc/environment
@@ -21,13 +21,16 @@ export SOCKS_PROXY="socks://127.0.0.1:10808/"
 export ALL_PROXY="socks://127.0.0.1:10808/"
 export NO_PROXY="localhost,127.0.0.0/8,::1"
 
+```
 
-
-to check current proxy settings - env | grep proxy
+## Check Current Proxy Settings 
 
 ```
+env | grep proxy
+```
+
 ---
-Example XRay Config
+## Example XRay Config
 ```
 {
   "inbounds": [

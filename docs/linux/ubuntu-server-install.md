@@ -62,6 +62,9 @@ alias s="sudo"
 sync `source ~/.bashrc`
 
 ---
+
+## Render Target
+
 Check Current Target 
 ```
 systemctl get-default
@@ -78,13 +81,12 @@ Restart
 ```
 sudo systemctl reboot
 ```
-[Link](https://www.cyberciti.biz/faq/switch-boot-target-to-text-gui-in-systemd-linux/)
-
 ---
 
-### Set Time Currect
+## Set Time Currect
 [Link](https://linuxize.com/post/how-to-set-or-change-timezone-on-ubuntu-20-04/)
 
 ---
 
-Gnome Disk Analyzer `sudo apt-get install baobab`
+## Gnome Disk Analyzer 
+``sudo apt-get install baobab``

@@ -24,6 +24,8 @@ Bloatless Logitech App [Logitech Onboard Memory Manager](https://support.logi.co
 
 Disk Analyzer [WizTree Disk Analyzer](https://diskanalyzer.com/)
 
+Quick Gif Maker [Licecap](https://www.cockos.com/licecap/)
+
 ---
 
 ## Internet Browser Setup 
@@ -47,10 +49,17 @@ Privacy Friendly Browser [Mullvad Browser](https://mullvad.net/en)
 
 ---
 
-Can't find old Radeon Drivers? [Open GPU Version Table](https://gpuopen.com/version-table/)
+## Can't find old Radeon Drivers? 
 
-Calculate Monitor Refresh Rate, Lock it using RTSS [Cal](https://www.testufo.com/refreshrate)
+[Open GPU Version Table](https://gpuopen.com/version-table/)
+
 ---
-#### INS Proxy
+
+## Calculate Monitor Refresh Rate, Lock it using RTSS 
+
+[Cal](https://www.testufo.com/refreshrate)
+
+---
+## INS Proxy
 - [Nekoray App](https://github.com/MatsuriDayo/nekoray)
 - [Netch](https://github.com/netchx/netch)

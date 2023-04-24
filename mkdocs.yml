@@ -73,6 +73,7 @@ nav:
   - KineFX: houdini/kinefx.md
   - VAT: houdini/vat.md
   - UI: houdini/houdini.md
+  - Vex: houdini/vex.md
 
 - UNREAL:
   - Learning: unreal/unreal.md
