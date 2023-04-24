@@ -122,4 +122,7 @@ sudo systemctl reboot
 ---
 
 ## Gnome Disk Analyzer 
-``sudo apt-get install baobab``
+
+```
+sudo apt-get install baobab
+```
