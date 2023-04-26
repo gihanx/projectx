@@ -8,18 +8,7 @@ hide:
 ## Debloat Discord 
 Source: fernbacher
 
-- Browse to your local AppData folder (type in `%LOCALAPPDATA%`) and browse to your Discord installation, then the `modules` folder.
-
-- Keep only `discord_desktop_core-1`, `modules-1`, `utils-1`, `voice-3`. You may want to keep other modules too that you might need.
-
-- Now go up a folder and go into the `locales` folder.
-
-- Keep only the language you use and I advise to keep `en-US.pak` to prevent issues (from personal experience).
-
-- This method should continue to work whatever the Discord version, feel free to fix anything in a pull request though.
-
-- **⚠ Warning: With each Discord update, the modules & locales will come back! This is why it is advisable to use Discord web or a client alternative like [WebCord](https://github.com/SpacingBat3/WebCord).**
-`With the help of he3als`
+![](./assets/fernbacher-discord.PNG)
 
 ---
 
@@ -31,6 +20,12 @@ Use [OpenAsar](https://openasar.dev/)
   <summary>CSS Customization</summary>
   
 ```
+/*Horizontal Server List*/
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+
+/*Clean Titlebar*/
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
 /* Hide Gift Button in chat box */
 button[aria-label="Send a gift"] {
     display: none;
@@ -52,7 +47,7 @@ div.container-2giAcK[tabindex="0"], div.container-2giAcK[tabindex="0"] + div {
 
 :root {
     --category-spacing: 0px;
-    --channel-spacing: 4px;
+    --channel-spacing: 1px;
 }
 
 .containerDefault-3TQ5YN, .containerDragAfter-1J_-1V, .containerDragBefore-ei4h1m, .containerUserOver-3woq86 {
@@ -95,7 +90,7 @@ div.container-2giAcK[tabindex="0"], div.container-2giAcK[tabindex="0"] + div {
 /* Minified Search Bar */ 
 
 :root {
-    --transitionspeed: 0.25s;
+    --transitionspeed: 0.01s;
 }
 
 .search-2Mwzzq:not(.open-1F8u2c) .searchBar-jGtisZ {width: 27px; transition: var(--transitionspeed); background-color: transparent;}
@@ -108,6 +103,52 @@ div.container-2giAcK[tabindex="0"], div.container-2giAcK[tabindex="0"] + div {
 
 .channelName-3KPsGw {
 text-transform: capitalize;
+}
+
+/*Disable Animation*/
+
+*{
+  animation:none !important;
+  transition:none !important;
+}
+
+circle[fill="white"]{
+  opacity: 1!important;
+}
+
+.modal-3c3bKg[style*="transform: scale"],.popout-2iWAc-,.animating-rRxada{
+  transform:none !important;
+  opacity: 1!important;
+}
+
+.backdrop-1wrmKB{
+  opacity: 1!important;
+}
+/*reactions*/
+#app-mount .reaction-1ELvT8.reactionMe-23mbRf /*reacting to stuff*/{
+    transform: none !important;
+    opacity: 1 !important;
+}
+.reaction-1ELvT8.reactionMe-23mbRf .reactionCount-2ddRoS div[style*="position: absolute;"], .reactionCount-2ddRoS div[style*="position: absolute;"] {
+    transform: none !important; /*reaction number - will look wonky for a split second*/
+}
+/*those dot things*/
+#app-mount .dots-3Bkt3k circle[fill="white"] {
+    opacity: 1 !important;
+    r: 2;
+}
+/*popouts and the backdrop*/
+#app-mount .inner-1ilYF7, .modal-3c3bKg /*popouts*/{
+    transform: none !important;
+    opacity: 1 !important;
+}
+#app-mount .backdrop-1wrmKB, .backdropWithLayer-3_uhz4 /*backdrop (background)*/ {
+    transform: none !important;
+    opacity: 0.8 !important;
+}
+/* Hide Public Servers Button */
+[aria-label="Explore Public Servers"] {
+display: none;
 }
 ```
 </details>

@@ -5,36 +5,66 @@ hide:
  - title
 ---
 
-Download the ISO
+## Download the ISO
 https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
 
-Remove Server Manager Startup
+---
 
-Upgrade
+## Remove Server Manager Startup
+
+---
+
+## Upgrade
 ```
  > DISM /online /Set-Edition:ServerStandard /ProductKey:VDYBN-27WPP-V4HQT-9VMD4-VMK7H /AcceptEula
  ```
 
-c drive index off
+---
 
-driver install
+## Tweaks
 
-gpedit [disable shutdown even tracker, disable automatic updates, remove access to updates, remove password]
+- C Drive index off
 
-control panel [remove user password]
+- Driver install
 
-remove edge
+- GPEdit 
+  > Disable shutdown even tracker<br>
+  > Disable automatic updates<br>
+  > Remove access to updates<br>
+  > Remove password<br>
+
+- Remove user password
+
+---
+
+## Remove Edge
+
 ```
-> cd %PROGRAMFILES(X86)%\Microsoft\Edge\Application\8*\Installer
-> setup --uninstall --force-uninstall --system-level
+cd %PROGRAMFILES(X86)%\Microsoft\Edge\Application\8*\Installer
+```
+```
+setup --uninstall --force-uninstall --system-level
 ```
 
-server manager [remove defender and etc]
-server manager add .net 3.5 / directapi
+---
 
-Activate
+## Delete Features/Roles
+
+- Defender, Sysdata Achiver
+- Add .Net 3.5, DirectAPI
+
+---
+
+## Activate
+
 ```
-> slmgr.vbs -ipk VDYBN-27WPP-V4HQT-9VMD4-VMK7H
-> slmgr.vbs -skms kms.srv.crsoo.com
-> slmgr.vbs -ato
+slmgr.vbs -ipk VDYBN-27WPP-V4HQT-9VMD4-VMK7H
 ```
+```
+slmgr.vbs -skms kms.srv.crsoo.com
+```
+```
+slmgr.vbs -ato
+```
+
+---

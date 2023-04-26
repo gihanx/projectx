@@ -45,13 +45,14 @@ Monitor Hz Changer Task [Guide](https://gaming.stackexchange.com/questions/14865
 
 ## AMD Sharpen - Registry method
 
-```
-"\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000"
+1. In RegEdit Navigate to `\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000`
 
-"KMD_USUEnable", set the value to "1", if it does not exist, create
+2. Create `KMD_USUEnable` 
 
-Restart the driver using the CRU or restart the PC.
-```
+3. Set the value to "1"
+
+4. Restart the driver using the CRU or restart the PC.
+
 ---
 ## Benchmark
 [HWiNFO](https://www.hwinfo.com/download/)
