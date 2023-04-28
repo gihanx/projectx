@@ -44,3 +44,9 @@ more https://www.nulledtemplates.com/
 [Tarkov Free Version](https://justemutarkov.eu/)
 
 How I Fixed My HORRIBLE Computer Posture [Link](https://www.youtube.com/watch?v=Rc8ZQeIZn40)
+
+--- 
+
+## Playerunknown's guide of audio processing 
+
+[Site](https://playerunknownproductions.net/news/audio-analog-audio-in-a-digital-world)

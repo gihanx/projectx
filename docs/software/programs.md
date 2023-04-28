@@ -49,12 +49,6 @@ Privacy Friendly Browser [Mullvad Browser](https://mullvad.net/en)
 
 ---
 
-## Can't find old Radeon Drivers? 
-
-[Open GPU Version Table](https://gpuopen.com/version-table/)
-
----
-
 ## Calculate Monitor Refresh Rate, Lock it using RTSS 
 
 [Cal](https://www.testufo.com/refreshrate)
@@ -63,3 +57,11 @@ Privacy Friendly Browser [Mullvad Browser](https://mullvad.net/en)
 ## INS Proxy
 - [Nekoray App](https://github.com/MatsuriDayo/nekoray)
 - [Netch](https://github.com/netchx/netch)
+
+---
+
+## Neovim on Windows
+
+Guide [Site](https://adamtheautomator.com/nvim/)
+
+---

@@ -7,11 +7,11 @@ hide:
 ---
 ## Extract Assets from Unreal Engine Games
 
-Fmodel [**Link**](https://fmodel.app/)
+Fmodel [Site](https://fmodel.app/)
 
-Umodel [**Link**](https://www.gildor.org/en/projects/umodel)
+Umodel [Site](https://www.gildor.org/en/projects/umodel)
 
-QuickBMS [**Link**](http://aluigi.altervista.org/quickbms.htm)
+QuickBMS [Site](http://aluigi.altervista.org/quickbms.htm)
 
 ---
 > PLAYERUNKOWN'S BATTLEGROUND Experimental Build<br> 

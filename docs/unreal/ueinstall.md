@@ -19,11 +19,11 @@ Backup those files as zip/rar, Don't trust Epic Launcher
 ### Debloat Engine
 
 1. In Epic Launcher untick unwanted engine features
-> Linux, Engine Source, Starter Content,
+    > Linux, Engine Source, Starter Content, etc
 2. Delete unwanted Plugins in `ProgramFiles\EpicGames\UEX.XX\Engine\Plugin\Experimental`
-> Unreal Engine 5 ships ton of plugins that you may never use
+    > Unreal Engine 5 ships ton of plugins that you may never use
 
-> PythonFoundationPackage is 11 GB
+    > PythonFoundationPackage is 11 GB
 
 ---
 ### Delete Unwanted Templates

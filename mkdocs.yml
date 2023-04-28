@@ -68,20 +68,19 @@ nav:
 - BOOKMARK: index.md
 
 - HOUDINI:
-  - Learning: houdini/learn.md
-  - Assets: houdini/assets.md
+  - Main: houdini/houdini.md
+  - Install/Tweaks: houdini/houdini-install.md
   - KineFX: houdini/kinefx.md
   - VAT: houdini/vat.md
-  - UI: houdini/houdini.md
   - Vex: houdini/vex.md
 
 - UNREAL:
-  - Learning: unreal/unreal.md
-  - Install: unreal/ueinstall.md
+  - Main: unreal/unreal.md
+  - Install/Tweaks: unreal/ueinstall.md
   - Datamine: unreal/datamine.md
 
 - BLENDER:
-  - Learning: blender/blender.md
+  - Main: blender/blender.md
   - Plugins: blender/plugin.md
 
 - SOFTWARE:

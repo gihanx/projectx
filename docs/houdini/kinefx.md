@@ -24,6 +24,11 @@ Extra KineFX Tools [Github Repo](https://github.com/kamilhepner/kinefx_tools)
 
 ---
 
+## Retarget
+- Lessons [Site](https://www.sidefx.com/tutorials/retarget-the-cmu-motion-capture-database-19_5/)
+
+---
+
 ## Increase Viewport Performance
 
 ![](./assets/polyframe.gif)
