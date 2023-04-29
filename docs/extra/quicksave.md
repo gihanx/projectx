@@ -50,3 +50,7 @@ How I Fixed My HORRIBLE Computer Posture [Link](https://www.youtube.com/watch?v=
 ## Playerunknown's guide of audio processing 
 
 [Site](https://playerunknownproductions.net/news/audio-analog-audio-in-a-digital-world)
+
+---
+
+Dark Mode Google Docs [guide](https://www.howtogeek.com/721117/how-to-turn-on-dark-mode-in-google-docs/)
