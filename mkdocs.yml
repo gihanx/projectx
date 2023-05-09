@@ -87,6 +87,7 @@ nav:
   - Programs: software/programs.md
   - Discord: software/discord.md
   - Steam: software/steam.md
+  - Browser: software/internet_browser.md
   - Tweaks: software/tweaks.md
   - HyperV: software/hyperv.md
   - Server2022: software/srv22-install.md

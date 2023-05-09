@@ -156,7 +156,7 @@ display: none;
 ---
 ## Altenative Client
 
-Web Like Cient [WebCord](https://github.com/SpacingBat3/WebCord)
+WebCord [🔗](https://github.com/SpacingBat3/WebCord)
 
-Qt Client [Ripcord](https://cancel.fm/ripcord/)
+Ripcord [🔗](https://cancel.fm/ripcord/)
 

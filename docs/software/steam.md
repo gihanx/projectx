@@ -24,8 +24,29 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 ## Launch Options for Steam Games
 
+Disable Vsync
 ```
--NoVSync -NOSPLASH -USEALLAVAILABLECORES -malloc=system +mat_antialias 0 -NOMANSKY -High
+-NoVSync
+```
+Disable Splash Screen
+```
+ -NOSPLASH 
+```
+Force to use all cores
+```
+-USEALLAVAILABLECORES
+```
+Memory Allocation Tweak
+```
+-malloc=system 
+```
+Disables Antialias
+```
++mat_antialias 0
+```
+Disables Eye Candy
+```
+-NOMANSKY
 ```
 Disable PUBG Ragdoll
 ```

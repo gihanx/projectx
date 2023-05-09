@@ -16,11 +16,11 @@ Extra KineFX Tools [Github Repo](https://github.com/kamilhepner/kinefx_tools)
 ---
 
 ## Houdini-Unreal Skeleton Fix Scale
-1. Add a rigpose
+1. Add a rigpose and select
 2. Set it to world transform and scaled everything to .01 before export
 3. Disable import bone tracks in unreal fbx importer
 
-![](assets/skel_scale.png)
+![](./assets/fix_scaleunreal.gif)
 
 ---
 
@@ -32,3 +32,11 @@ Extra KineFX Tools [Github Repo](https://github.com/kamilhepner/kinefx_tools)
 ## Increase Viewport Performance
 
 ![](./assets/polyframe.gif)
+
+---
+
+## Weight paint not exporting for fbx issue
+
+![](./assets/fix_weightpaint.gif)
+OR
+![](./assets/fix_weightpaint2.gif)

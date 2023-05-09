@@ -28,18 +28,6 @@ Quick Gif Maker [Licecap](https://www.cockos.com/licecap/)
 
 ---
 
-## Internet Browser Setup 
-
-Better than Chrome [Brave Browser](https://brave.com/)
-
-Privacy Friendly Browser [Mullvad Browser](https://mullvad.net/en)
-
-#### Browser Addons
-- [AHA Music - Song Finder for Browser](https://www.aha-music.com/)
-- [Clickbait Remover for Youtube](https://chrome.google.com/webstore/detail/clickbait-remover-for-you/omoinegiohhgbikclijaniebjpkeopip?hl=en)
-- [Full Screenshot Webpage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en)
-- [Enhancer for Youtube](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle)
-
 ---
 
 ## Virtual 7.1 on Any Headset

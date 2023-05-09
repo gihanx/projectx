@@ -39,8 +39,6 @@ more https://www.nulledtemplates.com/
 
 [Song of Ceylon](http://www.colonialfilm.org.uk/node/486/)
 
-#### Freebies
-
 [Tarkov Free Version](https://justemutarkov.eu/)
 
 How I Fixed My HORRIBLE Computer Posture [Link](https://www.youtube.com/watch?v=Rc8ZQeIZn40)
@@ -52,5 +50,3 @@ How I Fixed My HORRIBLE Computer Posture [Link](https://www.youtube.com/watch?v=
 [Site](https://playerunknownproductions.net/news/audio-analog-audio-in-a-digital-world)
 
 ---
-
-Dark Mode Google Docs [guide](https://www.howtogeek.com/721117/how-to-turn-on-dark-mode-in-google-docs/)
