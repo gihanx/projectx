@@ -78,6 +78,7 @@ nav:
   - Main: unreal/unreal.md
   - Install/Tweaks: unreal/ueinstall.md
   - Datamine: unreal/datamine.md
+  - Config: unreal/config.md
 
 - BLENDER:
   - Main: blender/blender.md
