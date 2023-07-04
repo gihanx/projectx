@@ -66,3 +66,13 @@ Check System Software Larency [Latency Monitor](https://www.resplendence.com/lat
 
 Check mouse Polling Rate [Mousetester v1.5.3](https://www.overclock.net/threads/mousetester-software-reloaded.1590569/)
 
+---
+## Disable/Enable Windows Services
+
+Registry location ``HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\``
+
+> 0 = Boot <br>
+1 = System <br>
+2 = Automatic <br>
+3 = Manual <br>
+4 = Disable <br>
