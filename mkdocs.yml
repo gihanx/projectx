@@ -75,6 +75,7 @@ nav:
   - Vex: houdini/vex.md
 
 - UNREAL:
+  - Issues: unreal/issues.md
   - Main: unreal/unreal.md
   - Install/Tweaks: unreal/ueinstall.md
   - Datamine: unreal/datamine.md
