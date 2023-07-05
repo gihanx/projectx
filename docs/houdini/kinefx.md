@@ -40,3 +40,6 @@ Extra KineFX Tools [Github Repo](https://github.com/kamilhepner/kinefx_tools)
 ![](./assets/fix_weightpaint.gif)
 OR
 ![](./assets/fix_weightpaint2.gif)
+
+
+[HouNotes](https://scrapbox.io/hounotes/KineFX)

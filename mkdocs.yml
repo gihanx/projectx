@@ -95,6 +95,7 @@ nav:
 
 - EXTRA:
   - Quicksave: extra/quicksave.md
+  - Animation: extra/animation.md
 
 - LINUX:
   - Linux: linux/linux.md

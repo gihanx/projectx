@@ -23,3 +23,18 @@ hide:
 ||||[WeaponDatabase2](https://dinustyempire.notion.site/75af76345055484d92864ff8092c6fde?v=243ed1ce46fa4be6a47fa585b823e724)|
 ||||[CADBlueprints](https://drawingdatabase.com/)|
 |||[MayaAssets](https://agora.community/assets)|[Unreal Asset Naming](https://www.unrealdirective.com/resource/asset-naming-conventions)
+
+
+[Fr33thy's Game Configs](https://drive.google.com/drive/folders/1KWzVGac-VJogHxVmzQcL_0jJ1dvgBWQh)
+
+[Video2Gif](https://www.adobe.com/express/feature/video/convert/video-to-gif)
+
+[Old Games](https://abandonwaregames.net/)
+
+[ArtStation Blog's](https://www.artstation.com/blogs)
+
+[GDC Vault](https://www.gdcvault.com/)
+
+[RamStudios Github](https://github.com/ramstudiosgames)
+
+[Unreal Learning](https://dev.epicgames.com/community/unreal-engine/learning)
