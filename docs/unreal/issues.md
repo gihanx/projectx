@@ -1,3 +1,9 @@
+---
+hide:
+ - toc
+ - path
+ - title
+---
 ## Metahuman Head Fix
 
 Current Situation - MetaHuman in Sequencer with Body Keyframes and Face Animation Sequences
