@@ -8,3 +8,6 @@ hide:
 
 Current Situation - MetaHuman in Sequencer with Body Keyframes and Face Animation Sequences
 Fix - Mute Keyframe animations and Added body animation sequence and reverse it
+
+## Movie Render Queue Timedialation issue
+![](./assets/a.gif)
